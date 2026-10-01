@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [TheFridge](https://github.com/Simen1406/TheFridge)
 
-- 🌱 I’m currently learning **React Native & C#**
+- 🌱 I’m currently improving my skills node.js and React/TypeScript
 
-- 👨‍💻 All of my projects are available at [https://github.com/Simen1406](https://github.com/Simen1406)
+- 👨‍💻 All my public projects are available at [https://github.com/Simen1406](https://github.com/Simen1406)
 
 - 💬 Ask me about **Python & system development**
 
